@@ -1,0 +1,39 @@
+body {
+    background-color: hsl(171, 80%, 75%);
+    font-family: Verdana, sans-serif;
+ }
+ 
+ 
+ article,
+ footer {
+    background-color: hsl(100, 88%, 69%)
+ }
+ 
+ 
+ article {
+    padding: 0 10px;
+ }
+ 
+ 
+ main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+ 
+ 
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ a {
+    text-decoration: none;
+    color: rgb(6, 138, 39);
+ }
+ a:hover {
+   text-decoration: underline;
+}
+
+ 
